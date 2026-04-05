@@ -1,7 +1,7 @@
 # ============================================================
 #  PLS-SEM Supplementary Analysis — UTAUT2 FinTech Adoption
 #  (Elderly Thai Users, n=430)
-#
+#  Author: Wirapong Chansanam
 #  Purpose : Robustness check for multicollinearity in CB-SEM
 #  Package : seminr (Hair, Ringle & Sarstedt, 2019)
 #  Method  : PLS-PM with Mode-A (reflective) measurement
